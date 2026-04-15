@@ -93,7 +93,6 @@ weather-forecasting-dashboard/
 ## ⚠️ Notes
 
 * Power BI dashboard is not publicly embedded due to authentication restrictions
-* Use screenshots or live demo for visualization reference
 
 ---
 
