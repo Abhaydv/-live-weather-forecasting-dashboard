@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
-from weatherApi import handler
+from backend.weatherApi import handler
 
 app = Flask(__name__)
 
