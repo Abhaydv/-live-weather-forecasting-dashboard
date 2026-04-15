@@ -24,6 +24,3 @@ A full-stack weather dashboard with real-time API data and Power BI visualizatio
 - Temperature trend
 - Humidity analysis
 - Weather distribution
-- ## 📊 Dashboard Preview
-
-![Dashboard]("C:\Users\abhay\OneDrive\Pictures\Screenshots\Screenshot 2026-04-15 162430.png")
